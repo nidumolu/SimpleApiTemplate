@@ -52,3 +52,4 @@ and specify path in /basic/config/__init__.py file
 
 Ex.os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = './xyz.json'
 
+
