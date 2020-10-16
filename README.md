@@ -30,7 +30,7 @@ pip3 install -r test-requirements.txt
 ## Simple Get api Health Check
 
 ```http
-http://localhost:8082/ping
+http://localhost:8081/ping
 ```
 
 ## swagger UI
