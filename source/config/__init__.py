@@ -2,7 +2,7 @@
 import os
 from google.cloud import logging
 
-#os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = './xyz.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = './xyz.json'
 
 logging_client = logging.Client()
 
